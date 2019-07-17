@@ -12,3 +12,7 @@ Minasnet Internet Banda Larga
 ## ANM2000
 
 1. [Instalação do Cliente de Ativação da OLT Fiberhome](https://williamabreu.github.io/MNET-tutorials/anm2000/client/anm2000-client-windows.html)
+
+## RoMON
+
+1. [Configuração do Mikrotik RoMON](https://williamabreu.github.io/MNET-tutorials/romon/mikrotik-romon-setup.html)
